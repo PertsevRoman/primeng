@@ -40,6 +40,7 @@ testem.log
 /src/assets/components/themes/**/*.css
 /src/assets/components/themes/**/*.map
 !/src/assets/components/themes/bootstrap/theme.css
+primeng.iml
 
 # e2e
 /e2e/*.js
